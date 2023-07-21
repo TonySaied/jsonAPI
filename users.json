@@ -1,0 +1,104 @@
+[
+  {
+    "title": "George",
+    "imageUrl": "https://reqres.in/img/faces/1-image.jpg",
+    "subtitle": "Bluth",
+    "defaultAction": {
+      "type": "web_url",
+      "url": "https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=george.bluth@reqres.in&su=Hello&body=Send%20Email",
+      "webviewHeightRatio": "tall"
+    },
+    "buttons": [
+      {
+        "type": "web_url",
+        "url": "https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=george.bluth@reqres.in&su=Hello&body=Send%20Email",
+        "title": "Send Email"
+      }
+    ]
+  },
+  {
+    "title": "Janet",
+    "imageUrl": "https://reqres.in/img/faces/2-image.jpg",
+    "subtitle": "Weaver",
+    "defaultAction": {
+      "type": "web_url",
+      "url": "https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=janet.weaver@reqres.in&su=Hello&body=Send%20Email",
+      "webviewHeightRatio": "tall"
+    },
+    "buttons": [
+      {
+        "type": "web_url",
+        "url": "https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=janet.weaver@reqres.in&su=Hello&body=Send%20Email",
+        "title": "Send Email"
+      }
+    ]
+  },
+  {
+    "title": "Emma",
+    "imageUrl": "https://reqres.in/img/faces/3-image.jpg",
+    "subtitle": "Wong",
+    "defaultAction": {
+      "type": "web_url",
+      "url": "https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=emma.wong@reqres.in&su=Hello&body=Send%20Email",
+      "webviewHeightRatio": "tall"
+    },
+    "buttons": [
+      {
+        "type": "web_url",
+        "url": "https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=emma.wong@reqres.in&su=Hello&body=Send%20Email",
+        "title": "Send Email"
+      }
+    ]
+  },
+  {
+    "title": "Eve",
+    "imageUrl": "https://reqres.in/img/faces/4-image.jpg",
+    "subtitle": "Holt",
+    "defaultAction": {
+      "type": "web_url",
+      "url": "https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=eve.holt@reqres.in&su=Hello&body=Send%20Email",
+      "webviewHeightRatio": "tall"
+    },
+    "buttons": [
+      {
+        "type": "web_url",
+        "url": "https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=eve.holt@reqres.in&su=Hello&body=Send%20Email",
+        "title": "Send Email"
+      }
+    ]
+  },
+  {
+    "title": "Charles",
+    "imageUrl": "https://reqres.in/img/faces/5-image.jpg",
+    "subtitle": "Morris",
+    "defaultAction": {
+      "type": "web_url",
+      "url": "https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=charles.morris@reqres.in&su=Hello&body=Send%20Email",
+      "webviewHeightRatio": "tall"
+    },
+    "buttons": [
+      {
+        "type": "web_url",
+        "url": "https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=charles.morris@reqres.in&su=Hello&body=Send%20Email",
+        "title": "Send Email"
+      }
+    ]
+  },
+  {
+    "title": "Tracey",
+    "imageUrl": "https://reqres.in/img/faces/6-image.jpg",
+    "subtitle": "Ramos",
+    "defaultAction": {
+      "type": "web_url",
+      "url": "https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=tracey.ramos@reqres.in&su=Hello&body=Send%20Email",
+      "webviewHeightRatio": "tall"
+    },
+    "buttons": [
+      {
+        "type": "web_url",
+        "url": "https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=tracey.ramos@reqres.in&su=Hello&body=Send%20Email",
+        "title": "Send Email"
+      }
+    ]
+  }
+]
